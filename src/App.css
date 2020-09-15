@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+.App {
+  background-color: #111;
+}
+.footer {
+  background-color: #111;
+  color: white;
+  position: relative;
+  display: block;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
